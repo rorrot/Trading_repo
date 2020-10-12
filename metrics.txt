@@ -1,0 +1,1 @@
+{"GOOG": {"Linear Regression": {"Train_MAE": 3.31, "Train_MAPE": 0.34, "Train_RMSE": 4.6, "Test_MAE": 6.73, "Test_MAPE": 0.46, "Test_RMSE": 8.38}, "Random Forest": {"Train_MAE": 2.11, "Train_MAPE": 0.21, "Train_RMSE": 3.17, "Test_MAE": 26.0, "Test_MAPE": 1.72, "Test_RMSE": 39.84}}}
