@@ -125,7 +125,7 @@ if choices == 'Stocks Exploration & Feature Extraction':
 
             st.markdown('**_Real-Time_ _Feature_ Extraction** for any Stocks')
             
-            st.write('Select a Date from a minimum of a year before as some of the features we extract uses upto 200 days of data. ')
+            st.write('Select a Date of data. ')
             st.markdown('Select **_Start_ _Date_ _for_ _Historical_ Stock** Data & features')
             start_date = st.date_input(
             "", datetime(2015, 1, 4))

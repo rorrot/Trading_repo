@@ -1,8 +1,8 @@
 #version: "3.8"
-services: 
-    app:
-        image: img_project
-        volumes: 
-            - /Users/utilisateur/Desktop/projet-final:/app
-        ports:
-            - "5000:5000" 
+#services: 
+ #   app:
+  #      image: img_project
+   #     volumes: 
+    #        - ../projet-final:/app
+     #   ports:
+      #-t      - "5000:5000" 
